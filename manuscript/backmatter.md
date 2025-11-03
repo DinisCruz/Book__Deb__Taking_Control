@@ -88,6 +88,15 @@
 28. **MD Anderson Cancer Center: The alkaline diet: What you need to know**  
     https://www.mdanderson.org/cancerwise/alkaline-diet--what-cancer-patients-should-know.h00-159223356.html
 
+29. **Science Direct: Resting energy expenditure in cancer patients: Agreement between predictive equations and indirect calorimetry**  
+    https://www.sciencedirect.com/science/article/abs/pii/S2405457721000334
+
+30. **Science Direct: Elevated energy expenditure in cancer patients with solid tumours**  
+    https://www.sciencedirect.com/science/article/abs/pii/027753799190050N
+
+31. **Healthline: How Many Calories Do You Burn While Walking?**  
+    https://www.healthline.com/health/calories-burned-walking
+
 ---
 
 ## About the Author
