@@ -12,6 +12,6 @@ Deb was also a workaholic. Stress drove her life. She also had years of toxic, p
 Over time, these unhealthy patterns broke Deb's critical DNA/genes inside her cells that are designed to kill cancer cells. This is called a somatic mutation – when your genes break within your lifetime due to unhealthy lifestyle choices.
 
 {class: warning}
-B> **Tumor suppressor genes became broken.**
+B> **Deb broke her tumor suppressor genes and other defense systems, leaving her vulnerable.**
 B>
 B> **All cancer needed now was a trigger.**
