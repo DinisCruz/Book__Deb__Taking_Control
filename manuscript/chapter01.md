@@ -24,4 +24,5 @@ Not all cancers use every mechanism to the same extent:
 {class: tip}
 B> **The Good News**
 B>
-B> All cancers share the same core breakdowns — mutations, tumor suppressor failure, repair errors, apoptosis avoidance, immune evasion and body acidity. The good news: these shared pathways also highlight the points where you can strengthen your defenses and regain control.
+B> All cancers share the same core breakdowns — mutations, tumor suppressor failure, repair errors, apoptosis avoidance, immune evasion and body acidity. 
+**The good news: these shared pathways also highlight the points where you can strengthen your defenses and regain control.**
