@@ -13,6 +13,8 @@ B> **The Formula**
 B>
 B> Consume **4 portions of alkaline foods** for every **1 portion of an acidic food** at each meal.
 B>
+B> The goal is to eat between **10-14 alkaline foods per day**.
+B>
 B> A portion is the size of the palm of your hand.
 
 ## Testing Your pH

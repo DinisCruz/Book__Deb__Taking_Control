@@ -27,15 +27,12 @@ There are potential risk factors if someone with cancer doesn't meet the body's 
 
 **Cancer advantage**: If the patient is undernourished, the imbalance can actually give cancer an advantage—it continues to grow and spread while the immune system and normal cells become weaker and less able to resist.
 
-## The Solution: Not More Food, But the Right Food
+## The Solution: Eating Smarter
 
-Is the solution to eat more? **No.**
-
-Quantities of certain foods can increase cancer's ability to thrive and multiply, so it's important to choose foods and supplements that are targeted to cancer prevention and elimination, and cellular healing.
+Is the solution to eat more? **Yes — but only the right foods.** Certain foods fuel cancer growth, while others help prevent, fight, and heal it. The goal is to eat smarter — reducing unhelpful foods and increasing nutrient-dense, cancer-fighting choices that support cellular repair and recovery.
 
 {class: success}
-B> **It's not about more food.**  
-B> **It's about the right food.**
+B> **Less wrong food – more right food.**
 
 ## Fuel Your Body's Metabolic Load, Not Your Cancer
 

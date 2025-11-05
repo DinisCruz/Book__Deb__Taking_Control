@@ -211,7 +211,7 @@ B> 2 capsules per day
 
 ### Prebiotics, Probiotics, and the Gut Microbiome
 
-Emerging research shows that the gut microbiome—the vast community of bacteria, fungi, and other microorganisms in the digestive tract—plays a vital role in immune regulation, inflammation control, and even how well cancer treatments work. For cancer patients, maintaining a healthy microbiome through prebiotics (which feed beneficial bacteria) and probiotics (which replenish them) can strengthen resilience, improve treatment tolerance, and support overall healing.
+Emerging research shows that the gut microbiome—the vast community of bacteria, fungi, and other microorganisms in the digestive tract—plays a vital role in immune regulation, inflammation control, and even how well cancer treatments work. For cancer patients, maintaining a healthy microbiome through a diverse and brightly colored diet as well as prebiotics (which feed beneficial bacteria) and probiotics (which replenish them) can strengthen resilience, improve treatment tolerance, and support overall healing.
 
 **Why the Gut Microbiome Matters for Cancer Patients:**
 
@@ -245,6 +245,8 @@ Magnesium supports hundreds of enzymatic processes in the body, including muscle
 B> **Dosage**
 B>
 B> 2 capsules at night
+
+## Not All Water is Alike
 
 ### Distilled Water
 
@@ -296,7 +298,7 @@ B> 1-3 tablets per day in water
 | Quercetin with Bromelain | 2 capsules 3 x day | [Purchase Link](https://example.com) |
 | Probiotics | 1 capsule 1 x day | [Purchase Link](https://example.com) |
 | Vitamin D & MK-7 | 1 capsule 1 x day | [Purchase Link](https://example.com) |
-| pH Strips | Test M/W/F, calculate average | [Purchase Link](https://example.com) |
+| pH Strips | Test M/W/F, calculate average | [Purchase Link](https://amzn.to/46fZGpm) |
 | Spleen Glandular | 1 cap 1 x day | [Purchase Link](https://example.com) |
 | NUUN Electrolyte Tabs | 1-3 tablets per day in water | [Purchase Link](https://example.com) |
 | Distilled Water | 30–35 milliliters of water per kilogram of body weight per day, or roughly half your body weight in ounces. | Available at most supermarkets |
