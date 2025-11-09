@@ -91,6 +91,8 @@ Most of the vegetables in the low starch (low carbohydrate) category are very be
 
 **Arginine**: While not universally harmful, excess arginine can fuel tumor growth, blood vessel formation, and survival in fast-growing cancers. ReachVitality recommends limiting high-arginine foods (certain grains, nuts, seeds, soy, and meats) and avoiding arginine supplements to help restrict cancer metabolism.
 
+![The ReachVitality Food Chart](images/FOOD-CHART.png)
+
 ## The ReachVitality Food Chart
 
 The complete food chart categorizes all foods by their pH properties (alkaline, acidic, neutral, or acidic-to-alkaline) and marks unsafe foods for cancer patients. The chart covers:
