@@ -32,9 +32,9 @@ To restore balance, it's essential to increase antioxidant intake through both w
 - Berries (blueberries, strawberries, raspberries)
 - Leafy greens (spinach, kale)
 - Cruciferous vegetables (broccoli, Brussels sprouts)
-- Green tea
+- Green tea, Matcha
 - Turmeric
-- Vitamin C-rich foods (citrus, bell peppers)
+- Vitamin C-rich foods (citrus)
 - Vitamin E-rich foods (avocados, olive oil)
 
 {class: success}
