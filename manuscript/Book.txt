@@ -1,3 +1,4 @@
+![Book Cover](MODULE1_COVER.png)
 frontmatter.md
 chapter01.md
 chapter02.md
